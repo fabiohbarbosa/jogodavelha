@@ -4,7 +4,7 @@ import jogodavelha.leitura.Leitura;
 
 
 public class JogoDaVelha {
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
 		Leitura leitura = new Leitura();
 		leitura.lerDados();
 	}
